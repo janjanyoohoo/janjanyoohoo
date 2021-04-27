@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @janjanyoohoo
+- 👋 Hi, I’m @janjanyoohoo 渐渐大王
 - 👀 I’m interested in Java!!!
 - 🌱 I’m currently learning Java!!!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 专业月亮能维修,专业家政,素质教育漏网之鱼~
 - 📫 How to reach me ...
 
 <!---
