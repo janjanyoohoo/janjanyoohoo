@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @janjanyoohoo 渐渐大王
 - 👀 I’m interested in Java!!!
 - 🌱 I’m currently learning Java!!!
-- 💞️ 月亮能维修,专业家政~
+- 💞️ 从事月亮能维修,擅长家政服务~
 - 📫 How to reach me ...
+
+- ヾ(o◕∀◕)ﾉヾ加油~~~~~
 
 <!---
 janjanyoohoo/janjanyoohoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
